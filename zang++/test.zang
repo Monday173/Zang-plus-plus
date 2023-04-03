@@ -1,0 +1,7 @@
+fn main()
+    if 2 == 2 then
+        writeln("Hello, World!")
+    end
+end
+
+main()
